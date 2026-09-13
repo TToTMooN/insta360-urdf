@@ -1,0 +1,2 @@
+# Python 3.13. A separate environment is convenient; viewer does not need bpy.
+bpy==5.2.1

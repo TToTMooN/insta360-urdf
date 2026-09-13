@@ -1,0 +1,123 @@
+[
+  {
+    "name": "graphite_polycarbonate",
+    "file": "../assets/meshes/visual/graphite_polycarbonate.obj",
+    "rgba": [
+      0.027000000700354576,
+      0.03099999949336052,
+      0.03700000047683716,
+      1.0
+    ],
+    "triangles": 8988
+  },
+  {
+    "name": "rubber_grip",
+    "file": "../assets/meshes/visual/rubber_grip.obj",
+    "rgba": [
+      0.013000000268220901,
+      0.017000000923871994,
+      0.02199999988079071,
+      1.0
+    ],
+    "triangles": 4204
+  },
+  {
+    "name": "recess_shadow",
+    "file": "../assets/meshes/visual/recess_shadow.obj",
+    "rgba": [
+      0.004000000189989805,
+      0.006000000052154064,
+      0.008999999612569809,
+      1.0
+    ],
+    "triangles": 21964
+  },
+  {
+    "name": "anodized_lens_ring",
+    "file": "../assets/meshes/visual/anodized_lens_ring.obj",
+    "rgba": [
+      0.035999998450279236,
+      0.041999999433755875,
+      0.05000000074505806,
+      1.0
+    ],
+    "triangles": 6044
+  },
+  {
+    "name": "lens_edge",
+    "file": "../assets/meshes/visual/lens_edge.obj",
+    "rgba": [
+      0.08500000089406967,
+      0.0949999988079071,
+      0.10999999940395355,
+      1.0
+    ],
+    "triangles": 2040
+  },
+  {
+    "name": "coated_optical_glass",
+    "file": "../assets/meshes/visual/coated_optical_glass.obj",
+    "rgba": [
+      0.003000000026077032,
+      0.008999999612569809,
+      0.007000000216066837,
+      1.0
+    ],
+    "triangles": 15996
+  },
+  {
+    "name": "display_glass_off",
+    "file": "../assets/meshes/visual/display_glass_off.obj",
+    "rgba": [
+      0.003000000026077032,
+      0.004000000189989805,
+      0.004000000189989805,
+      1.0
+    ],
+    "triangles": 764
+  },
+  {
+    "name": "display_black_border",
+    "file": "../assets/meshes/visual/display_black_border.obj",
+    "rgba": [
+      0.0010000000474974513,
+      0.0012000000569969416,
+      0.0013000000035390258,
+      1.0
+    ],
+    "triangles": 764
+  },
+  {
+    "name": "mount_stainless",
+    "file": "../assets/meshes/visual/mount_stainless.obj",
+    "rgba": [
+      0.3799999952316284,
+      0.4000000059604645,
+      0.4300000071525574,
+      1.0
+    ],
+    "triangles": 636
+  },
+  {
+    "name": "printed_markings",
+    "file": "../assets/meshes/visual/printed_markings.obj",
+    "rgba": [
+      0.30000001192092896,
+      0.33000001311302185,
+      0.3499999940395355,
+      1.0
+    ],
+    "triangles": 3993
+  },
+  {
+    "name": "status_cyan",
+    "file": "../assets/meshes/visual/status_cyan.obj",
+    "rgba": [
+      0.012000000104308128,
+      0.41999998688697815,
+      0.5,
+      1.0
+    ],
+    "triangles": 1528
+  }
+]

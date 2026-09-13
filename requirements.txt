@@ -1,0 +1,6 @@
+numpy==2.4.6
+scipy==1.17.1
+trimesh==4.12.2
+pillow==12.3.0
+viser==1.1.0
+yourdfpy==0.0.60

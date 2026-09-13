@@ -1,0 +1,7 @@
+.venv*/
+__pycache__/
+*.blend1
+*.log
+.DS_Store
+*.zip
+**/preview/turntable_frames/

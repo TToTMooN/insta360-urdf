@@ -1,0 +1,76 @@
+newmtl graphite_polycarbonate
+Kd 0.027000 0.031000 0.037000
+Ks 0.25 0.25 0.25
+Ns 136.9000
+d 1
+illum 2
+
+newmtl rubber_grip
+Kd 0.013000 0.017000 0.022000
+Ks 0.25 0.25 0.25
+Ns 32.4000
+d 1
+illum 2
+
+newmtl recess_shadow
+Kd 0.004000 0.006000 0.009000
+Ks 0.25 0.25 0.25
+Ns 40.0000
+d 1
+illum 2
+
+newmtl anodized_lens_ring
+Kd 0.036000 0.042000 0.050000
+Ks 0.25 0.25 0.25
+Ns 490.0000
+d 1
+illum 2
+
+newmtl lens_edge
+Kd 0.085000 0.095000 0.110000
+Ks 0.25 0.25 0.25
+Ns 547.6000
+d 1
+illum 2
+
+newmtl coated_optical_glass
+Kd 0.003000 0.009000 0.007000
+Ks 0.25 0.25 0.25
+Ns 810.0000
+d 1
+illum 2
+
+newmtl display_glass_off
+Kd 0.003000 0.004000 0.004000
+Ks 0.25 0.25 0.25
+Ns 608.4000
+d 1
+illum 2
+
+newmtl display_black_border
+Kd 0.001000 0.001200 0.001300
+Ks 0.25 0.25 0.25
+Ns 705.6000
+d 1
+illum 2
+
+newmtl mount_stainless
+Kd 0.380000 0.400000 0.430000
+Ks 0.25 0.25 0.25
+Ns 547.6000
+d 1
+illum 2
+
+newmtl printed_markings
+Kd 0.300000 0.330000 0.350000
+Ks 0.25 0.25 0.25
+Ns 115.6000
+d 1
+illum 2
+
+newmtl status_cyan
+Kd 0.012000 0.420000 0.500000
+Ks 0.25 0.25 0.25
+Ns 462.4000
+d 1
+illum 2

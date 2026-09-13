@@ -1,0 +1,20 @@
+{
+  "units": "millimeters for geometry, kilograms for mass",
+  "width_mm": 46.0,
+  "height_mm": 124.5,
+  "body_depth_mm": 26.2,
+  "overall_depth_mm": 38.2,
+  "mass_kg": 0.2,
+  "corner_radius_mm": 8.8,
+  "lens_center_height_mm": 104.0,
+  "lens_ring_radius_mm": 16.0,
+  "lens_glass_radius_mm": 13.5,
+  "screen_width_mm": 33.9,
+  "screen_height_mm": 53.7,
+  "screen_center_height_mm": 51.4,
+  "com_height_mm": 62.25,
+  "notes": "Envelope, active display size and mass follow manufacturer specifications. Cover size, component positions, detail dimensions, COM and inertia are estimates. No optical calibration is supplied.",
+  "screen_cover_width_mm": 39.6,
+  "screen_cover_height_mm": 62.0,
+  "screen_cover_center_height_mm": 50.4
+}

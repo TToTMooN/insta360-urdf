@@ -1,0 +1,7 @@
+{
+  "name": "Insta360 X5",
+  "visual": "assets/meshes/x5_visual.glb",
+  "urdf": "urdf/insta360_x5.urdf",
+  "config": "config/x5.json",
+  "status": "Reference-based exterior; not specimen-measured"
+}
